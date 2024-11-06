@@ -15,7 +15,7 @@ This project provides a Dockerized LAMP stack (Linux, Apache, MySQL, PHP) with P
 - **Debian 12 Slim** as the base image
 - **Apache 2.4** with PHP-FPM support (PHP 8.1+)
 - **MySQL 8** or external MariaDB database
-- **Node.js 16+** for frontend React and asset bundling
+- **Node.js 20+** for frontend React and asset bundling
 - PHP Extensions for Symfony:
   - `php-curl`
   - `php-mbstring`
