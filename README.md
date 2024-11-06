@@ -1,4 +1,4 @@
-```markdown
+```
 # WebStack LAMP Docker
 
 This project provides a Dockerized LAMP stack (Linux, Apache, MySQL, PHP) with PHP 8.1+, Node.js, and necessary PHP extensions for a Symfony-based application. It includes Apache configured to run PHP-FPM, and basic PHP configurations for performance optimization. This stack is designed to be used in conjunction with a reverse proxy and is optimized for Symfony applications and React frontend bundling.
