@@ -1,5 +1,3 @@
-Voici un modèle de README pour votre projet Dockerisé :
-
 ```markdown
 # WebStack LAMP Docker
 
